@@ -1,4 +1,4 @@
-# Course-Management-With-React-and-Spring-Boot
+# Course-Registration-With-React-and-Spring-Boot
 <b>Project created with:</b>
 <ul>
 <li>Front End: React JS</>
